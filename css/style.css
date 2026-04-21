@@ -1,0 +1,79 @@
+
+body {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 0.75rem; 
+  background: #672644d0;
+  padding-top: 1rem;
+}
+
+header marquee {
+  color: #00ffcc;
+  font-size: 1rem;
+}
+
+h2 {
+  color: #250d24;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  opacity: 85%;
+  font-size: 1.5rem;
+}
+
+.box {
+  background: #fcfcfc;
+  border: 2px solid #ff66aa;
+  padding: 1rem;
+}
+
+.box-title {
+  background: #c73a79c9;
+  color: white;
+  padding: 0.3rem 0.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+.band-name {
+  font-size: 1rem;
+  color: #cc0066;
+  font-weight: bold;
+}
+
+.album {
+  border: 1px solid #ff66aa;
+  background: #ffe6f2;
+  cursor: pointer;
+}
+
+.album:hover {
+  background: #ff66aa;
+  color: white;
+}
+
+aside img {
+  border: 1px solid #ff66aa;
+  margin-bottom: 0.25rem;
+}
+
+.btn-outline-danger {
+  border-color: #ff66aa;
+  color: #ff66aa;
+}
+
+.btn-outline-danger:hover {
+  background: #ff66aa;
+  color: white;
+}
+
+.counter {
+  background: black;
+  color: #00ff99;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+
